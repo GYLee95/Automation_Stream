@@ -1,0 +1,1 @@
+This folder contain Python scripts for Requests practice on Download Stock Data from Web.
