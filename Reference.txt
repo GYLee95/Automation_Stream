@@ -1,0 +1,23 @@
+https://newsapi.org/
+API Key : 39612b1a081d457f9af5b22a54d6dc2b
+Ref link : https://newsapi.org/docs/get-started
+
+Daily Python Projects
+Ref Link : https://dailypythonprojects.substack.com/
+Info : Will get a Python project to work on every day (Mon - Fri) hand-sent by auther.
+
+Scheduling the Script for Execution on PythonAnywhere
+Ref Link : https://pythonhow.com/how/schedule-a-python-script-for-execution-at-a-specific-time-every-day/
+
+Schedule SMS Sending on PythonAnywhere
+Ref Link : https://pythonhow.com/how/schedule-a-python-script-for-execution-at-a-specific-time-every-day/
+
+Python Mega Course: Learn Python in 60 Days, Build 20 Apps
+Ref Link : https://pythonhow.com/python-paid-course/the-python-mega-course/
+
+Intermediate to Advanced Python with 10 OOP Projects
+Ref Link : https://pythonhow.com/python-paid-course/advanced-python-python-ooop-with-10-real-world-programs/
+
+Practice Python by Solving 100 Python Problems
+Ref Link : https://pythonhow.com/python-paid-course/practice-python-by-solving-100-python-problems/
+
