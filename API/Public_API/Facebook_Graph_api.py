@@ -6,12 +6,21 @@ Created on Wed Nov 13 14:06:31 2024
 
 ref link : https://developers.facebook.com/
 
+token :
+EAAJIitQMcZBABAEZBMY7shwy9brRQzgC3WmRdST9b4oXy0t24
+LSZC0KEaVCvVQ4PmQwtrx0tUsv64dg5gT4FEN5UCfZAaJwSDLr
+qdXAjyZAJKCNHsomPBBKgtVQDdWnr301GumkMi266I3xIzPKJT
+cbr2ybMiwGVE9pMyZAWVyuYaKgKFegmwKtvd0geqijSCYlfgSZ
+CrP17BnHUek8BslsJqqQ5ygMQLHLMK4HDScV1dn1jdCUBxq2ZBmkfLZB8u6HsZD
+
 """
 
 import requests
 import json
 
-url = "https://graph.facebook.com/v13.0/105360698771730?fields=link%2Cimages&access_token=EAAJIitQMcZBABAEZBMY7shwy9brRQzgC3WmRdST9b4oXy0t24LSZC0KEaVCvVQ4PmQwtrx0tUsv64dg5gT4FEN5UCfZAaJwSDLrqdXAjyZAJKCNHsomPBBKgtVQDdWnr301GumkMi266I3xIzPKJTcbr2ybMiwGVE9pMyZAWVyuYaKgKFegmwKtvd0geqijSCYlfgSZCrP17BnHUek8BslsJqqQ5ygMQLHLMK4HDScV1dn1jdCUBxq2ZBmkfLZB8u6HsZD"
+token = "token"
+
+url = f"https://graph.facebook.com/v13.0/105360698771730?fields=link%2Cimages&access_token={token}"
 
 response = requests.get(url)
 data = response.text
